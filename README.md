@@ -26,6 +26,6 @@ El Anexo B se publica como extracto. Incluye la estructura del instrumento, sus 
 
 Icesi, Distribuidora Horizonte y Corporación Horizonte son casos simulados. Los anexos no contienen datos de organizaciones reales ni datos personales de participantes. Las valoraciones de la primera fase se presentan como Ficha 01 y Ficha 02.
 
-## Uso
+## Licencia y uso
 
-Material de consulta académica. Los derechos sobre el instrumento, la biblioteca de acciones y los demás contenidos corresponden a la autora del trabajo. Para citar, use la referencia del trabajo de grado.
+Todos los derechos reservados. El material se puede consultar, descargar y citar con fines académicos. Reproducirlo, modificarlo o usarlo con fines comerciales requiere autorización escrita de la autora. Las condiciones completas y la forma de citar están en [LICENSE.md](LICENSE.md).
